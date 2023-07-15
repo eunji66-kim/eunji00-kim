@@ -14,7 +14,6 @@
 
 ### ✨BOJ✨
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={eunji00-kim})](https://solved.ac/{eunji00-kim})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kejh66@naver.com)](https://solved.ac/kejh66@naver.com/)
 
 </div>
