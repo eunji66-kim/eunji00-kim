@@ -1,4 +1,6 @@
 
+</div align=center>
+
 ### 💻Skills💻
 
 #### Languages
